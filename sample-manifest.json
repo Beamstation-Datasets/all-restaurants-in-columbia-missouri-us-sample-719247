@@ -1,0 +1,12 @@
+{
+  "export_job_id": "becdfd33-b4c1-4b80-9c2d-ee567067b7d9",
+  "id_short": 719247,
+  "published_at": "2026-04-16T19:06:59Z",
+  "repo_name": "all-restaurants-in-columbia-missouri-us-sample-719247",
+  "sample_asset_name": "beamstation_719247_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/719247/beamstation_719247_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 41,
+  "sample_sha256": "2dea5a7d671ddb459e130e383abfa9aaecff54d0381d9c696e521a4eb7cc4b83",
+  "sample_size_bytes": 150630,
+  "total_records": 437
+}
