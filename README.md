@@ -1,6 +1,6 @@
 # All Restaurants in Columbia, Missouri, US
 
-> Free BeamStation sample export with 41 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `719247` |
 | Location | Columbia |
 | Category | Restaurants |
-| Full dataset size | 419 records |
-| Free sample size | 41 records (9.79%) |
-| Last export | 2026-04-14T10:25:42.426849+00:00 |
+| Full dataset size | 335 records |
+| Free sample size | 33 records (9.85%) |
+| Last export | 2026-04-21T10:32:38.194561+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-columbia-missouri-us-sample-719247/releases/download/sample-latest/beamstation_719247_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
